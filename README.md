@@ -1,5 +1,5 @@
 ### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
-<em>I am ZHANG Caiqi. 然后这个主页是抄别人的，我暂时没时间更新orz</em>
+<em>I am ZHANG Caiqi. 张蔡启orz</em>
  <br/>
 ## I know: 
 - **Competitive Programming**
