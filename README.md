@@ -1,21 +1,17 @@
 ### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
 <em>I am ZHANG Caiqi. 然后这个主页是抄别人的，我暂时没时间更新orz</em>
  <br/>
-## I do not know: 
+## I know: 
 - **Competitive Programming**
 	- Python ❤️
-	- C++
-	- Some Java
+	- Java
+	- C
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
 - **Web Development**
 	- HTML, CSS and Javascript :white_check_mark:
-	- Bootstrap
-	- React with Redux :electron:
-	- MonogoDB
-  - Express
-  - NodeJS  
+
 - **Shell Scripting**
 
 
@@ -25,9 +21,12 @@
 <code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a></code>
 <br/><br/>
 
-## 🌱 I’m currently learning ...
-- **Data Science**
-- **AI**
+## 🌱 I've done some research about ...
+- **Graph theory**
+- **Embedded system**
+- **Bluetooth Low Energy**
+- **Natural language processing**
+ 
 <br/>
   <br/>
 
