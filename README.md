@@ -22,10 +22,10 @@
 <br/><br/>
 
 ## 🌱 I've done some research about ...
-- **Graph theory**
-- **Embedded system**
+- **Graph Theory**
+- **Embedded System**
 - **Bluetooth Low Energy**
-- **Natural language processing**
+- **Natural Language Processing**
  
 <br/>
   <br/>
